@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ChTpx
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Fusion of AI, IOT and Android
+- 👀 I’m interested in mobile application development 
 - 📫 How to reach me chtpx007gmail.com 
 
 <!---
